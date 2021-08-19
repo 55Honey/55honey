@@ -3,9 +3,12 @@
 
 ![55Honeys's github stats](https://github-readme-stats.vercel.app/api?username=55honey)
 
-- 🌱 I’m currently taking baby steps in C++ and SQL
+- 🌱 I’m currently taking baby steps in C++ and already learned basic SQL. I plan to learn Rust.
 - 💬 Ask me about WoW multiboxing and LUA
-- 🔭 I’m currently working on https://Chromiecraft.com
+- 🔭 I’m currently working on
+https://Chromiecraft.com
+https://github.com/55Honey/Acore_CustomWorldboss
+https://github.com/55Honey/progression-system
 <!--
 **55Honey/55honey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
