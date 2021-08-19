@@ -4,7 +4,7 @@
 ![55Honeys's github stats](https://github-readme-stats.vercel.app/api?username=55honey)
 
 - 🌱 I’m currently taking baby steps in C++ and already learned basic SQL. I plan to learn Rust.
-- 💬 Ask me about WoW multiboxing and LUA
+- 💬 Ask me about WoW multiboxing and Lua
 - 🔭 I’m currently working on
 https://Chromiecraft.com
 https://github.com/55Honey/Acore_CustomWorldboss
