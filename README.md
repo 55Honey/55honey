@@ -3,7 +3,7 @@
 
 ![55Honeys's github stats](https://github-readme-stats.vercel.app/api?username=55honey)
 
-- 🌱 I’m currently taking baby steps in C++ and already learned basic SQL. I plan to learn Rust.
+- 🌱 I’m currently taking baby steps in C++ and already learned basic SQL. I'd like to learn Rust some day.
 - 💬 Ask me about WoW multiboxing and Lua
 - 🔭 I’m currently working on
 https://Chromiecraft.com
