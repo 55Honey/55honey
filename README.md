@@ -7,7 +7,7 @@
 - 💬 Ask me about WoW multiboxing and Lua
 - 🔭 I’m currently working on
 https://Chromiecraft.com
-https://github.com/55Honey/Acore_CustomWorldboss
+https://github.com/55Honey/Acore_eventScripts
 https://github.com/azerothcore/progression-system
 <!--
 **55Honey/55honey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
