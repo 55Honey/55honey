@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on
   - https://Chromiecraft.com
   - https://github.com/55Honey/Acore_eventScripts
-  - https://github.com/azerothcore/progression-system
+  - https://github.com/azerothcore/mod-zone-difficulty
 <!--
 **55Honey/55honey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
